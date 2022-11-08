@@ -1,19 +1,20 @@
-title: <p align="center"> Das Balvinder Das </p>
-logo: /assets/img/profile-pic.png
+title: <p align="center"> Sajan Kedia </p>
+logo: /assets/img/logo.png
 
 description:
   <p align="center">
-  <a href="https://www.linkedin.com/in/dasbalvinderdas/">LinkedIn</a> |
-    <br>  
-  <a href="https://github.com/DasBalvinderDas/">GitHub</a>
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
   
-   <br>  
-
-  I'm working on Google CLoud, Microservices, K8S, and learning AI & ML.
-  Working with HCL Technologies
-  having 15+ years of industry experience.
-  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in AdTech domain for 3 years.
   <br>
   </p>
+
+
 
 theme: jekyll-theme-minimal
